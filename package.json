@@ -21,6 +21,7 @@
 
   "homepage": "https://MmZhang01.github.io/Sort_vis",
   "scripts": {
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   }
 }
