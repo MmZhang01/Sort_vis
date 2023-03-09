@@ -22,7 +22,7 @@
 
 
 
-  "homepage": "https://<your-github-username>.github.io/<project-name>",
+  "homepage": "https://MmZhang01.github.io/Sort_vis",
   "scripts": {
     "deploy": "gh-pages -d build"
   }
