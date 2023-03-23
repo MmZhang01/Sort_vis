@@ -25,6 +25,7 @@ Features
 - Alter the speed of execution
 - Start, pause and reset the execution
 - Generate random array of numbers of sorting
+- Sort array in reverse order
 
 ### Technologies
 
@@ -39,19 +40,3 @@ Features
 - Flex is used for array display and manipulation of positions (flex order property)
 - JavaScript async generators are used heavily for the controlled execution of algorithms
 
-### Run in your local
-
-- ```git clone https://github.com/sadanandpai/sorting-visualizer.git```
-- ```npm install``` (after navigating inside the directory)
-- ```npm run dev```
-
----
-
-### Contributing Guide
-
-If you want to contribute, improve or fix bugs in this repo, then check out the [Contributing Guide](./CONTRIBUTING.md)
-<br/>
-
-### License
-
-This repository is MIT licensed. [Read more](./LICENSE)
